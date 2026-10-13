@@ -1,0 +1,13 @@
+order_id,customer_id,order_date,product,status,quantity,amount,customer_name,city,segment
+1001,C101,2026-01-05,Laptop,Delivered,1,65000,Arun Stores,Hyderabad,Corporate
+1002,C102,2026-01-10,Mouse,Delivered,3,4500,Metro Retail,Mumbai,Retail
+1003,C103,2026-01-18,Monitor,Cancelled,1,18000,Green Mart,Bangalore,Retail
+1004,C101,2026-02-03,Keyboard,Delivered,2,6000,Arun Stores,Hyderabad,Corporate
+1005,C104,2026-02-08,Tablet,Pending,1,28000,City Bazaar,Hyderabad,Corporate
+1006,C105,2026-02-14,Laptop,Delivered,1,72000,Quick Shop,Delhi,SMB
+1007,C102,2026-03-02,Headphones,Pending,2,8000,Metro Retail,Mumbai,Retail
+1008,C103,2026-03-06,Monitor,Delivered,2,36000,Green Mart,Bangalore,Retail
+1009,C104,2026-03-15,Mouse,Cancelled,2,3000,City Bazaar,Hyderabad,Corporate
+1010,C101,2026-03-20,Laptop,Delivered,1,68000,Arun Stores,Hyderabad,Corporate
+1011,C105,2026-04-05,Keyboard,Delivered,4,12000,Quick Shop,Delhi,SMB
+1012,C102,2026-04-10,Tablet,Pending,1,30000,Metro Retail,Mumbai,Retail

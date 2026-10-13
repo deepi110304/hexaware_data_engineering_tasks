@@ -1,0 +1,14 @@
+id,name,dept,salary
+1,Arjun,IT,70000
+2,Deepika,HR,50000
+3,Bhavani,IT,70000
+4,Karthik,IT,90000
+5,Priya,HR,60000
+6,Rahul,Sales,40000
+7,Anu,Sales,40000
+8,Vikram,IT,80000
+9,Divya,HR,NULL
+10,Suresh,NULL,55000111,sarah,sales,68000
+111,sarah,sales,68000
+11,sarah,sales,68000
+11,sarah,sales,68000

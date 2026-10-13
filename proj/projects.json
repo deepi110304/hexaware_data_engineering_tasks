@@ -1,0 +1,59 @@
+[
+  {
+    "project_id": 101,
+    "project_name": "Data Migration",
+    "department": "IT",
+    "budget": 450000,
+    "technologies": ["Python", "SQL", "Azure"],
+    "team": [
+      {
+        "name": "Vikram",
+        "role": "Engineer",
+        "experience": 4
+      },
+      {
+        "name": "Meera",
+        "role": "Analyst",
+        "experience": 3
+      }
+    ]
+  },
+  {
+    "project_id": 102,
+    "project_name": "Customer Analytics",
+    "department": "Analytics",
+    "budget": 300000,
+    "technologies": ["Python", "Pandas", "Power BI"],
+    "team": [
+      {
+        "name": "Karan",
+        "role": "Data Analyst",
+        "experience": 5
+      },
+      {
+        "name": "Zoya",
+        "role": "Developer",
+        "experience": 2
+      }
+    ]
+  },
+  {
+    "project_id": 103,
+    "project_name": "Cloud Modernization",
+    "department": "Cloud",
+    "budget": 600000,
+    "technologies": ["Azure", "Docker", "Python"],
+    "team": [
+      {
+        "name": "Naveen",
+        "role": "Cloud Engineer",
+        "experience": 6
+      },
+      {
+        "name": "Isha",
+        "role": "Engineer",
+        "experience": 4
+      }
+    ]
+  }
+]
