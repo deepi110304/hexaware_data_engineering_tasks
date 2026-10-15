@@ -1,0 +1,5 @@
+hub_id,hub_name,city,manager
+H01,South Logistics Hub,Hyderabad,Naveen
+H02,Western Distribution Hub,Mumbai,Leena
+H03,Central Freight Hub,Nagpur,Kabir
+H04,Eastern Delivery Hub,Kolkata,Sonia

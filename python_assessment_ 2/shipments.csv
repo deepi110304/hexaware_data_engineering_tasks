@@ -1,0 +1,13 @@
+shipment_id,hub_id,shipment_date,destination,weight,status,cost
+S1001,H01,2026-06-01,Hyderabad,12.5,Delivered,850
+S1002,H02,2026-06-03,Mumbai,8.0,In Transit,620
+S1003,H01,2026-06-06,Bangalore,18.5,Delivered,1250
+S1004,H03,2026-06-10,Delhi,5.5,Pending,480
+S1005,H02,2026-07-02,Pune,22.0,Delivered,1600
+S1006,H03,2026-07-06,Hyderabad,10.0,In Transit,740
+S1007,H01,2026-07-12,Mumbai,7.2,Delivered,590
+S1008,H02,2026-08-01,Delhi,15.5,Pending,1100
+S1009,H03,2026-08-08,Bangalore,11.8,Delivered,920
+S1010,H01,2026-08-14,Pune,25.0,Delivered,1750
+S1011,H02,2026-09-02,Hyderabad,6.5,In Transit,520
+S1012,H03,2026-09-09,Mumbai,14.0,Delivered,1050

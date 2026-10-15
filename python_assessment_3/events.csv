@@ -1,0 +1,6 @@
+event_id,event_name,event_type,venue_city,capacity,organizer
+E101,AI Innovation Summit,Technology,Hyderabad,500,Vision Events
+E102,Leadership Forum,Business,Mumbai,350,Prime Conferences
+E103,Data Engineering Bootcamp,Technology,Bangalore,200,SkillWorks
+E104,Startup Connect,Business,Delhi,300,Founders Circle
+E105,Design Expo,Design,Pune,250,Creative Hub

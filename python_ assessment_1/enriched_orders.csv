@@ -1,0 +1,15 @@
+order_id,customer_id,order_date,product,category,quantity,unit_price,status,order_value,month,customer_name,city,segment,active,order_size,priority_customer
+1006,C105,2026-02-14,Laptop,Electronics,1,72000,Delivered,72000,2,Fresh Point,Delhi,Corporate,True,High,Priority
+1001,C101,2026-01-05,Laptop,Electronics,1,65000,Delivered,65000,1,North Star Retail,Hyderabad,Corporate,True,High,Priority
+1010,C101,2026-03-21,Tablet,Electronics,2,28000,Delivered,56000,3,North Star Retail,Hyderabad,Corporate,True,High,Priority
+1003,C103,2026-01-18,Monitor,Electronics,2,18000,Cancelled,36000,1,Daily Basket,Bangalore,Retail,False,Medium,Normal
+1013,C102,2026-04-17,Tablet,Electronics,1,30000,Delivered,30000,4,Blue Mart,Mumbai,Retail,True,Medium,Normal
+1009,C104,2026-03-15,Desk,Furniture,2,14000,Delivered,28000,3,Prime Stores,Hyderabad,SMB,True,Medium,Normal
+1008,C103,2026-03-07,Monitor,Electronics,1,19000,Delivered,19000,3,Daily Basket,Bangalore,Retail,False,Medium,Normal
+1005,C104,2026-02-08,Office Chair,Furniture,2,9000,Pending,18000,2,Prime Stores,Hyderabad,SMB,True,Medium,Normal
+1011,C105,2026-04-04,Keyboard,Accessories,5,3200,Delivered,16000,4,Fresh Point,Delhi,Corporate,True,Medium,Priority
+1004,C101,2026-02-02,Keyboard,Accessories,4,3000,Delivered,12000,2,North Star Retail,Hyderabad,Corporate,True,Low,Priority
+1012,C106,2026-04-11,Office Chair,Furniture,1,9500,Pending,9500,4,Quick Buy,Pune,Retail,True,Low,Normal
+1007,C102,2026-03-03,Headphones,Accessories,2,4500,Pending,9000,3,Blue Mart,Mumbai,Retail,True,Low,Normal
+1014,C104,2026-05-01,Mouse,Accessories,5,1600,Cancelled,8000,5,Prime Stores,Hyderabad,SMB,True,Low,Normal
+1002,C102,2026-01-12,Mouse,Accessories,3,1500,Delivered,4500,1,Blue Mart,Mumbai,Retail,True,Low,Normal

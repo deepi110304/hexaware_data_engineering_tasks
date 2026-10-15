@@ -1,0 +1,61 @@
+[
+  {
+    "staff_id": 501,
+    "name": "Arvind Rao",
+    "department": "Operations",
+    "salary": 72000,
+    "skills": [
+      "Coordination",
+      "Excel",
+      "Python"
+    ],
+    "performance": {
+      "rating": 4.3,
+      "events_handled": 8
+    }
+  },
+  {
+    "staff_id": 502,
+    "name": "Sanya Gupta",
+    "department": "Marketing",
+    "salary": 68000,
+    "skills": [
+      "Digital Marketing",
+      "Analytics"
+    ],
+    "performance": {
+      "rating": 4.6,
+      "events_handled": 10
+    }
+  },
+  {
+    "staff_id": 503,
+    "name": "Bilal Ahmed",
+    "department": "Technology",
+    "salary": 90000,
+    "skills": [
+      "Python",
+      "SQL",
+      "Automation",
+      "Pandas"
+    ],
+    "performance": {
+      "rating": 4.8,
+      "events_handled": 12
+    }
+  },
+  {
+    "staff_id": 504,
+    "name": "Trisha Menon",
+    "department": "Operations",
+    "salary": 76000,
+    "skills": [
+      "Coordination",
+      "Vendor Management"
+    ],
+    "performance": {
+      "rating": 4.1,
+      "events_handled": 7
+    }
+  }
+]

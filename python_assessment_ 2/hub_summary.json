@@ -1,0 +1,20 @@
+[
+    {
+        "hub_id":"H01",
+        "hub_name":"South Logistics Hub",
+        "total_shipment_cost":4440,
+        "total_shipments":4
+    },
+    {
+        "hub_id":"H02",
+        "hub_name":"Western Distribution Hub",
+        "total_shipment_cost":3840,
+        "total_shipments":4
+    },
+    {
+        "hub_id":"H03",
+        "hub_name":"Central Freight Hub",
+        "total_shipment_cost":3190,
+        "total_shipments":4
+    }
+]

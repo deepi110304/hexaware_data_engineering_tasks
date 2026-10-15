@@ -1,0 +1,13 @@
+registration_id,event_id,attendee_name,city,tickets,registration_date,status,amount
+R1001,E101,Aarav Shah,Hyderabad,2,2026-07-01,Confirmed,5000
+R1002,E102,Simran Kaur,Mumbai,1,2026-07-02,Confirmed,3500
+R1003,E101,Faiz Ahmed,Pune,3,2026-07-04,Pending,7500
+R1004,E103,Keerthi Rao,Bangalore,2,2026-07-07,Confirmed,6000
+R1005,E104,Mohit Kapoor,Delhi,1,2026-07-10,Cancelled,4000
+R1006,E102,Ananya Das,Hyderabad,2,2026-08-01,Confirmed,7000
+R1007,E103,Zubin Patel,Mumbai,1,2026-08-04,Pending,3000
+R1008,E101,Sonal Mehta,Delhi,4,2026-08-09,Confirmed,10000
+R1009,E104,Harish Nair,Chennai,2,2026-08-15,Confirmed,8000
+R1010,E102,Nida Khan,Hyderabad,3,2026-09-02,Confirmed,10500
+R1011,E103,Rohit Bansal,Pune,2,2026-09-05,Cancelled,6000
+R1012,E104,Maya Iyer,Bangalore,1,2026-09-11,Confirmed,4000
