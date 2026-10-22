@@ -1,0 +1,15 @@
+order_id,customer_id,order_date,product,category,quantity,unit_price,stat
+1001,C101,2026-01-05,Laptop,Electronics,1,65000,Delivered
+1002,C102,2026-01-12,Mouse,Accessories,3,1500,Delivered
+1003,C103,2026-01-18,Monitor,Electronics,2,18000,Cancelled
+1004,C101,2026-02-02,Keyboard,Accessories,4,3000,Delivered
+1005,C104,2026-02-08,Office Chair,Furniture,2,9000,Pending
+1006,C105,2026-02-14,Laptop,Electronics,1,72000,Delivered
+1007,C102,2026-03-03,Headphones,Accessories,2,4500,Pending
+1008,C103,2026-03-07,Monitor,Electronics,1,19000,Delivered
+1009,C104,2026-03-15,Desk,Furniture,2,14000,Delivered
+1010,C101,2026-03-21,Tablet,Electronics,2,28000,Delivered
+1011,C105,2026-04-04,Keyboard,Accessories,5,3200,Delivered
+1012,C106,2026-04-11,Office Chair,Furniture,1,9500,Pending
+1013,C102,2026-04-17,Tablet,Electronics,1,30000,Delivered
+1014,C104,2026-05-01,Mouse,Accessories,5,1600,Cancelled
