@@ -1,4 +1,0 @@
-Order processing started.
-Customer records processed.
-Product records processed.
-Order processing completed.

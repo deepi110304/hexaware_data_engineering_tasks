@@ -1,8 +1,0 @@
-customer_id,customer_name,city,segment,active
-C101,North Star Retail,Hyderabad,Corporate,True
-C102,Blue Mart,Mumbai,Retail,True
-C103,Daily Basket,Bangalore,Retail,False
-C104,Prime Stores,Hyderabad,SMB,True
-C105,Fresh Point,Delhi,Corporate,True
-C106,Quick Buy,Pune,Retail,True
-C107,Central Bazaar,Mumbai,SMB,False
