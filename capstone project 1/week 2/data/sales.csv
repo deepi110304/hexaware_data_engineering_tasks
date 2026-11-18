@@ -1,0 +1,22 @@
+sale_id,sale_date,product_id,product_name,category,cost,store_id,store_name,region,employee_id,quantity,unit_price,discount_percent
+1,2026-07-01,1,Laptop,Electronics,45000.00,1,"Chennai Central Store",South,1,2,60000.00,5.00
+2,2026-07-01,2,"Wireless Mouse",Accessories,350.00,1,"Chennai Central Store",South,1,10,800.00,0.00
+3,2026-07-02,3,Keyboard,Accessories,700.00,2,"Bengaluru City Store",South,3,5,1500.00,2.00
+4,2026-07-03,4,Smartphone,Electronics,18000.00,2,"Bengaluru City Store",South,4,3,25000.00,5.00
+5,2026-07-04,5,Headphones,Accessories,900.00,3,"Mumbai Retail Store",West,6,8,2000.00,10.00
+6,2026-07-05,6,Monitor,Electronics,8500.00,3,"Mumbai Retail Store",West,5,2,12000.00,0.00
+7,2026-08-01,7,"Office Chair",Furniture,5000.00,4,"Delhi Main Store",North,7,4,7500.00,5.00
+8,2026-08-02,8,Desk,Furniture,7000.00,4,"Delhi Main Store",North,8,2,10000.00,0.00
+9,2026-08-03,9,"USB Cable",Accessories,100.00,5,"Hyderabad Tech Store",South,10,20,300.00,0.00
+10,2026-08-04,10,Printer,Electronics,11000.00,5,"Hyderabad Tech Store",South,9,3,15000.00,8.00
+11,2026-08-10,1,Laptop,Electronics,45000.00,2,"Bengaluru City Store",South,3,1,60000.00,0.00
+12,2026-08-12,2,"Wireless Mouse",Accessories,350.00,3,"Mumbai Retail Store",West,6,15,800.00,5.00
+13,2026-09-01,4,Smartphone,Electronics,18000.00,5,"Hyderabad Tech Store",South,10,2,25000.00,3.00
+14,2026-09-05,5,Headphones,Accessories,900.00,1,"Chennai Central Store",South,2,6,2000.00,0.00
+15,2026-09-10,6,Monitor,Electronics,8500.00,2,"Bengaluru City Store",South,4,4,12000.00,5.00
+16,2026-09-15,7,"Office Chair",Furniture,5000.00,3,"Mumbai Retail Store",West,5,3,7500.00,0.00
+17,2026-09-20,8,Desk,Furniture,7000.00,5,"Hyderabad Tech Store",South,9,1,10000.00,10.00
+18,2026-09-25,3,Keyboard,Accessories,700.00,4,"Delhi Main Store",North,8,7,1500.00,0.00
+19,2026-10-01,10,Printer,Electronics,11000.00,1,"Chennai Central Store",South,1,2,15000.00,5.00
+20,2026-10-02,9,"USB Cable",Accessories,100.00,2,"Bengaluru City Store",South,4,30,300.00,0.00
+21,2026-10-05,1,Laptop,Electronics,45000.00,1,"Chennai Central Store",South,1,2,60000.00,10.00

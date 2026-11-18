@@ -1,0 +1,11 @@
+product_id,product_name,category,total_quantity,total_revenue,total_profit
+1,Laptop,Electronics,5,282000.0,57000.0
+4,Smartphone,Electronics,5,119750.0,29750.0
+10,Printer,Electronics,5,69900.0,14900.0
+6,Monitor,Electronics,6,69600.0,18600.0
+7,Office Chair,Furniture,7,51000.0,16000.0
+8,Desk,Furniture,3,29000.0,8000.0
+5,Headphones,Accessories,14,26400.0,13800.0
+2,Wireless Mouse,Accessories,25,19400.0,10650.0
+3,Keyboard,Accessories,12,17850.0,9450.0
+9,USB Cable,Accessories,50,15000.0,10000.0

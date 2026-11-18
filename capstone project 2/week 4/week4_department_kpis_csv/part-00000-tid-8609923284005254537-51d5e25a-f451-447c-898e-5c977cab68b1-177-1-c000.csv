@@ -1,0 +1,4 @@
+department,total_attendance_days,present_days,absent_days,attendance_percentage,total_task_records,completed_task_records,total_tasks_completed
+IT,66,58,8,87.88,12,6,19
+Finance,44,40,4,90.91,9,4,11
+HR,44,42,2,95.45,10,6,18

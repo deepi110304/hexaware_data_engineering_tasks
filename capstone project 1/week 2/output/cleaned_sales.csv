@@ -1,0 +1,22 @@
+sale_id,sale_date,product_id,product_name,category,cost,store_id,store_name,region,employee_id,quantity,unit_price,discount_percent,gross_revenue,discount_amount,net_revenue,total_cost,profit,profit_margin_percent
+1,2026-07-01,1,Laptop,Electronics,45000.0,1,Chennai Central Store,South,1,2,60000.0,5.0,120000.0,6000.0,114000.0,90000.0,24000.0,21.052631578947366
+2,2026-07-01,2,Wireless Mouse,Accessories,350.0,1,Chennai Central Store,South,1,10,800.0,0.0,8000.0,0.0,8000.0,3500.0,4500.0,56.25
+3,2026-07-02,3,Keyboard,Accessories,700.0,2,Bengaluru City Store,South,3,5,1500.0,2.0,7500.0,150.0,7350.0,3500.0,3850.0,52.38095238095239
+4,2026-07-03,4,Smartphone,Electronics,18000.0,2,Bengaluru City Store,South,4,3,25000.0,5.0,75000.0,3750.0,71250.0,54000.0,17250.0,24.210526315789473
+5,2026-07-04,5,Headphones,Accessories,900.0,3,Mumbai Retail Store,West,6,8,2000.0,10.0,16000.0,1600.0,14400.0,7200.0,7200.0,50.0
+6,2026-07-05,6,Monitor,Electronics,8500.0,3,Mumbai Retail Store,West,5,2,12000.0,0.0,24000.0,0.0,24000.0,17000.0,7000.0,29.166666666666668
+7,2026-08-01,7,Office Chair,Furniture,5000.0,4,Delhi Main Store,North,7,4,7500.0,5.0,30000.0,1500.0,28500.0,20000.0,8500.0,29.82456140350877
+8,2026-08-02,8,Desk,Furniture,7000.0,4,Delhi Main Store,North,8,2,10000.0,0.0,20000.0,0.0,20000.0,14000.0,6000.0,30.0
+9,2026-08-03,9,USB Cable,Accessories,100.0,5,Hyderabad Tech Store,South,10,20,300.0,0.0,6000.0,0.0,6000.0,2000.0,4000.0,66.66666666666666
+10,2026-08-04,10,Printer,Electronics,11000.0,5,Hyderabad Tech Store,South,9,3,15000.0,8.0,45000.0,3600.0,41400.0,33000.0,8400.0,20.28985507246377
+11,2026-08-10,1,Laptop,Electronics,45000.0,2,Bengaluru City Store,South,3,1,60000.0,0.0,60000.0,0.0,60000.0,45000.0,15000.0,25.0
+12,2026-08-12,2,Wireless Mouse,Accessories,350.0,3,Mumbai Retail Store,West,6,15,800.0,5.0,12000.0,600.0,11400.0,5250.0,6150.0,53.94736842105263
+13,2026-09-01,4,Smartphone,Electronics,18000.0,5,Hyderabad Tech Store,South,10,2,25000.0,3.0,50000.0,1500.0,48500.0,36000.0,12500.0,25.773195876288657
+14,2026-09-05,5,Headphones,Accessories,900.0,1,Chennai Central Store,South,2,6,2000.0,0.0,12000.0,0.0,12000.0,5400.0,6600.0,55.00000000000001
+15,2026-09-10,6,Monitor,Electronics,8500.0,2,Bengaluru City Store,South,4,4,12000.0,5.0,48000.0,2400.0,45600.0,34000.0,11600.0,25.438596491228072
+16,2026-09-15,7,Office Chair,Furniture,5000.0,3,Mumbai Retail Store,West,5,3,7500.0,0.0,22500.0,0.0,22500.0,15000.0,7500.0,33.33333333333333
+17,2026-09-20,8,Desk,Furniture,7000.0,5,Hyderabad Tech Store,South,9,1,10000.0,10.0,10000.0,1000.0,9000.0,7000.0,2000.0,22.22222222222222
+18,2026-09-25,3,Keyboard,Accessories,700.0,4,Delhi Main Store,North,8,7,1500.0,0.0,10500.0,0.0,10500.0,4900.0,5600.0,53.333333333333336
+19,2026-10-01,10,Printer,Electronics,11000.0,1,Chennai Central Store,South,1,2,15000.0,5.0,30000.0,1500.0,28500.0,22000.0,6500.0,22.807017543859647
+20,2026-10-02,9,USB Cable,Accessories,100.0,2,Bengaluru City Store,South,4,30,300.0,0.0,9000.0,0.0,9000.0,3000.0,6000.0,66.66666666666666
+21,2026-10-05,1,Laptop,Electronics,45000.0,1,Chennai Central Store,South,1,2,60000.0,10.0,120000.0,12000.0,108000.0,90000.0,18000.0,16.666666666666664

@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6accb3df2d243dec39df3016"
+  },
+  "employee_id": 1,
+  "task_name": "SQL reporting",
+  "feedback": "Completed the report on time",
+  "notes": "Need to improve query performance",
+  "rating": 4,
+  "created_at": {
+    "$date": "2026-10-12T09:00:00Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6accb4162d243dec39df3018"
+  },
+  "employee_id": 2,
+  "task_name": "Employee records update",
+  "feedback": "Completed the assigned work",
+  "notes": "Double-check data accuracy",
+  "rating": 5,
+  "created_at": {
+    "$date": "2026-10-12T10:00:00Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6accb4212d243dec39df301a"
+  },
+  "employee_id": 3,
+  "task_name": "Database testing",
+  "feedback": "Task is still pending",
+  "notes": "Requires additional testing",
+  "rating": 3,
+  "created_at": {
+    "$date": "2026-10-12T11:00:00Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acdfb1d8434ff7b3e99e6c8"
+  },
+  "employee_id": 4,
+  "task_name": "Monthly report",
+  "feedback": "Completed on time",
+  "notes": "Good progress",
+  "rating": 4,
+  "created_at": "2026-10-13"
+},
+{
+  "_id": {
+    "$oid": "6acdfb1d8434ff7b3e99e6c9"
+  },
+  "employee_id": 5,
+  "task_name": "Data validation",
+  "feedback": "Needs improvement",
+  "notes": "Check data carefully",
+  "rating": 3,
+  "created_at": "2026-10-13"
+},
+{
+  "_id": {
+    "$oid": "6acdfb1d8434ff7b3e99e6ca"
+  },
+  "employee_id": 7,
+  "task_name": "Attendance analysis",
+  "feedback": "Work started",
+  "notes": "Review attendance records",
+  "rating": 4,
+  "created_at": "2026-10-13"
+}]

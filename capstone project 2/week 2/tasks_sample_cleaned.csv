@@ -1,0 +1,32 @@
+task_id,employee_id,employee_name,department,task_name,task_date,tasks_completed,task_status
+1,2,Priya Sharma,HR,Documentation,2026-09-16,0,Pending
+2,2,Priya Sharma,HR,Data cleaning,2026-09-11,1,Completed
+3,2,Priya Sharma,HR,Data validation,2026-09-28,0,Pending
+4,2,Priya Sharma,HR,Documentation,2026-09-27,4,Completed
+5,2,Priya Sharma,HR,Monthly report,2026-09-03,2,Completed
+6,5,Rahul M,HR,Dashboard update,2026-09-03,1,Completed
+7,5,Rahul M,HR,Dashboard update,2026-09-20,5,Completed
+8,5,Rahul M,HR,Data cleaning,2026-09-15,0,Pending
+9,5,Rahul M,HR,Data cleaning,2026-09-28,0,Pending
+10,5,Rahul M,HR,Data validation,2026-09-19,5,Completed
+11,6,Manoj Kumar,Finance,Data validation,2026-09-21,3,Completed
+12,6,Manoj Kumar,Finance,Data validation,2026-09-06,2,Completed
+13,6,Manoj Kumar,Finance,Documentation,2026-09-06,4,Completed
+14,6,Manoj Kumar,Finance,Data cleaning,2026-09-23,0,Pending
+15,7,Varun Verma,IT,Data cleaning,2026-09-08,0,Pending
+16,7,Varun Verma,IT,Data validation,2026-09-23,0,Pending
+17,7,Varun Verma,IT,Database testing,2026-09-22,3,Completed
+18,1,Arun Kumar,IT,Data cleaning,2026-09-04,2,Completed
+19,1,Arun Kumar,IT,SQL reporting,2026-09-27,1,Completed
+20,1,Arun Kumar,IT,Data cleaning,2026-09-06,0,Pending
+21,1,Arun Kumar,IT,Data cleaning,2026-09-15,4,Completed
+22,1,Arun Kumar,IT,Data cleaning,2026-09-23,0,Pending
+23,1,Arun Kumar,IT,Documentation,2026-09-17,0,Pending
+24,3,Karthik Raj,IT,Attendance analysis,2026-09-20,4,Completed
+25,3,Karthik Raj,IT,SQL reporting,2026-09-20,0,Pending
+26,3,Karthik Raj,IT,SQL reporting,2026-09-03,5,Completed
+27,4,Divya S,Finance,Documentation,2026-09-19,2,Completed
+28,4,Divya S,Finance,Data cleaning,2026-09-17,0,Pending
+29,4,Divya S,Finance,Documentation,2026-09-06,0,Pending
+30,4,Divya S,Finance,Attendance analysis,2026-09-03,0,Pending
+31,4,Divya S,Finance,Attendance analysis,2026-09-14,0,Pending

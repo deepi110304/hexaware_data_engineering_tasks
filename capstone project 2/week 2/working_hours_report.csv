@@ -1,0 +1,9 @@
+employee_id,employee_name,department,attendance_date,clock_in,clock_out,status,working_hours
+1,Arun Kumar,IT,2026-10-12,2026-10-12 09:00:00,2026-10-12 17:30:00,Present,8.5
+1,Arun Kumar,IT,2026-10-13,2026-10-13 09:00:00,2026-10-13 17:30:00,Present,8.5
+2,Priya Sharma,HR,2026-10-12,2026-10-12 09:30:00,2026-10-12 17:00:00,Present,7.5
+3,Karthik Raj,IT,2026-10-12,,,Absent,
+4,Divya S,Finance,2026-10-12,2026-10-12 08:55:00,2026-10-12 17:10:00,Present,8.25
+5,Rahul M,HR,2026-10-12,2026-10-12 09:05:00,2026-10-12 17:00:00,Present,7.916666666666667
+6,Manoj Kumar,Finance,,,,,
+7,Varun Verma,IT,,,,,

@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6accd9a655b01fe4f8b7e029"
+  },
+  "campaign_id": "CAMP001",
+  "product_id": 1,
+  "region": "South",
+  "store_id": 1,
+  "customer_feedback": "Laptop discount was attractive",
+  "rating": 5,
+  "feedback_date": {
+    "$date": "2026-10-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6accdab355b01fe4f8b7e02a"
+  },
+  "campaign_id": "CAMP001",
+  "product_id": 2,
+  "region": "South",
+  "store_id": 2,
+  "customer_feedback": "Mouse offer was useful",
+  "rating": 4,
+  "feedback_date": {
+    "$date": "2026-10-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6accdab355b01fe4f8b7e02b"
+  },
+  "campaign_id": "CAMP002",
+  "product_id": 4,
+  "region": "West",
+  "store_id": 3,
+  "customer_feedback": "Smartphone discount could be better",
+  "rating": 3,
+  "feedback_date": {
+    "$date": "2026-10-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6accdab355b01fe4f8b7e02c"
+  },
+  "campaign_id": "CAMP002",
+  "product_id": 5,
+  "region": "North",
+  "store_id": 4,
+  "customer_feedback": "Good headphones promotion",
+  "rating": 5,
+  "feedback_date": {
+    "$date": "2026-10-04T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6accdab355b01fe4f8b7e02d"
+  },
+  "campaign_id": "CAMP003",
+  "product_id": 10,
+  "region": "South",
+  "store_id": 5,
+  "customer_feedback": "Printer offer needs improvement",
+  "rating": 2,
+  "feedback_date": {
+    "$date": "2026-10-05T00:00:00.000Z"
+  }
+}]

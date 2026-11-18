@@ -1,0 +1,9 @@
+employee_id,employee_name,department,attendance_date,clock_in,clock_out,status
+1,"Arun Kumar",IT,2026-10-12,"2026-10-12 09:00:00","2026-10-12 17:30:00",Present
+1,"Arun Kumar",IT,2026-10-13,"2026-10-13 09:00:00","2026-10-13 17:30:00",Present
+2,"Priya Sharma",HR,2026-10-12,"2026-10-12 09:30:00","2026-10-12 17:00:00",Present
+3,"Karthik Raj",IT,2026-10-12,NULL,NULL,Absent
+4,"Divya S",Finance,2026-10-12,"2026-10-12 08:55:00","2026-10-12 17:10:00",Present
+5,"Rahul M",HR,2026-10-12,"2026-10-12 09:05:00","2026-10-12 17:00:00",Present
+6,"Manoj Kumar",Finance,NULL,NULL,NULL,NULL
+7,"Varun Verma",IT,NULL,NULL,NULL,NULL

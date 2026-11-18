@@ -1,0 +1,8 @@
+employee_id,employee_name,department,task_id,task_name,task_date,tasks_completed,task_status
+2,"Priya Sharma",HR,NULL,NULL,NULL,NULL,NULL
+5,"Rahul M",HR,NULL,NULL,NULL,NULL,NULL
+6,"Manoj Kumar",Finance,NULL,NULL,NULL,NULL,NULL
+7,"Varun Verma",IT,NULL,NULL,NULL,NULL,NULL
+1,"Arun Kumar",IT,1,"SQL reporting",2026-10-12,4,Completed
+3,"Karthik Raj",IT,3,"Database testing",2026-10-12,0,Pending
+4,"Divya S",Finance,4,"Monthly report",2026-10-12,5,Completed

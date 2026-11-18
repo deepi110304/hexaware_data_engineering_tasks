@@ -1,0 +1,6 @@
+store_id,store_name,region,total_quantity,total_revenue,total_profit
+1,Chennai Central Store,South,22,270500.0,59600.0
+2,Bengaluru City Store,South,43,193200.0,53700.0
+5,Hyderabad Tech Store,South,26,104900.0,26900.0
+3,Mumbai Retail Store,West,28,72300.0,27850.0
+4,Delhi Main Store,North,13,59000.0,20100.0

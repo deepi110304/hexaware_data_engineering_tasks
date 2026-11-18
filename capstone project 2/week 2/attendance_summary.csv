@@ -1,0 +1,8 @@
+employee_id,employee_name,attendance_records,present_days,absent_days
+1,Arun Kumar,2,2,0
+2,Priya Sharma,1,1,0
+3,Karthik Raj,1,0,1
+4,Divya S,1,1,0
+5,Rahul M,1,1,0
+6,Manoj Kumar,0,0,0
+7,Varun Verma,0,0,0

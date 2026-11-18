@@ -1,0 +1,8 @@
+employee_id,employee_name,department,attendance_days,present_days,absent_days,total_shift_hours,total_break_hours,total_net_working_hours,attendance_rate_percent,total_task_records,completed_task_records,total_tasks_completed,task_completion_rate_percent,productivity_score
+1,Arun Kumar,IT,22,19,3,167.5,12.75,154.75,86.36,6,3,7,50.0,0.045
+2,Priya Sharma,HR,22,22,0,190.16666666666666,17.0,173.16666666666666,100.0,5,3,7,60.0,0.04
+3,Karthik Raj,IT,22,19,3,158.41666666666666,14.5,143.91666666666666,86.36,3,2,9,66.67,0.063
+4,Divya S,Finance,22,20,2,171.41666666666666,16.0,155.41666666666666,90.91,5,1,2,20.0,0.013
+5,Rahul M,HR,22,20,2,167.75,16.25,151.5,90.91,5,3,11,60.0,0.073
+6,Manoj Kumar,Finance,22,20,2,179.5,15.0,164.5,90.91,4,3,9,75.0,0.055
+7,Varun Verma,IT,22,20,2,167.83333333333334,15.25,152.58333333333334,90.91,3,1,3,33.33,0.02
